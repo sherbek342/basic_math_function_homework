@@ -8,4 +8,6 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return
+    javob = (a%b)
+    return javob
+print(main(23, 5))
